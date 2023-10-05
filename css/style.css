@@ -1,7 +1,10 @@
+.mynav{
+background-color: #0074d9;
+}
 
 .my-bg{
-  background-color: white;
-background-image: url ("../images/human-figurines-carrying-lit-lightbulb-as-idea-concept");
+  background-color: f5ccca;
+
 }
 .my-text {
   font-family: 'Gayathri', sans-serif;
